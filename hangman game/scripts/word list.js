@@ -75,9 +75,4 @@ const wordList = [
         word: "Dance",
         hint: "A rhythmatic movement of the body often performed to music."
     },
-    {
-        word: "Kaushal",
-        hint: "my self."
-    },
-
 ]
